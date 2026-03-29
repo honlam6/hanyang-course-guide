@@ -5,7 +5,6 @@
 这是一个给汉阳大学学生使用的选课评价、课程表和 AI 辅助选课网站。
 
 - 在线示范：<https://hanyang.eu.cc>
-- GitHub 展示建议：[docs/github-metadata.md](./docs/github-metadata.md)
 - 系统架构与网站逻辑：[docs/architecture.md](./docs/architecture.md)
 - 数据处理说明：[docs/data-source.md](./docs/data-source.md)
 - 数据组织概览：[docs/data-model.md](./docs/data-model.md)
